@@ -1,1 +1,5 @@
 Primera nueva funcionalidad entregada por RQs
+
+-------------------------------------
+Corrección de error inesperado
+
