@@ -1,2 +1,3 @@
+CORRECIÓN EN FUNCIONALIDAD 2
 Segunda Entrega de RQs
-Nueva FUncionalidad para Satélite
+Satélite
